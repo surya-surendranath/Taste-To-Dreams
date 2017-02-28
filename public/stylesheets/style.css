@@ -1,0 +1,96 @@
+body {
+  padding: 50px;
+  font: 14px "Lucida Grande", Helvetica, Arial, sans-serif;
+  background-color: white;
+}
+
+a {
+  color: #00B7FF;
+}
+
+@media only screen and (max-width:1280px)
+{
+	@media only screen and (min-width:981px)
+{
+.main_header  {
+	text-indent: 200px;
+	margin-top: 30px;
+	float:right;
+	height: 100px;
+	width:auto;
+}
+.main_header1 {
+	width:1220px 100%;
+	height:70px;
+	background-color: black;
+	margin-top: -70px;
+    margin-left: -58px;
+    margin-right: -58px;
+
+}
+#main_middlediv {
+	width:1220px 100%;
+	height:350px;
+    margin-top: -210px;
+	background: url("../images/fruit.jpeg");
+	background-repeat: no-repeat;
+    background-size: cover;
+    margin-left: -58px;
+    margin-right: -58px;
+}
+.main_image1 {
+    margin-top: 10px;
+    margin-left: 50px;
+}
+#main_about {
+	border:none;
+	background-color: #000;
+	font-size: 20px;
+	color:white;
+	font-weight: bold;
+	font-size: 15px;
+	font-family: verdana;
+
+}
+#main_footer {
+	width:1220px 100%;
+	height:250px;
+	background-color: grey;
+	 margin-left: -58px;
+     margin-right: -58px;
+     margin-top: 5px;
+}
+#main_home {
+	border:none;
+	background-color: #000;
+	font-size: 20px;
+	color:white;
+	font-weight: bold;
+	font-size: 15px;
+	font-family: verdana;
+
+
+}
+#main_contact {
+	border:none;
+	background-color: #000;
+	font-size: 20px;
+	color:white;
+	font-weight: bold;
+	font-size: 15px;
+	font-family: verdana;
+
+
+}
+#main_work {
+	border:none;
+	background-color: #000;
+	font-size: 20px;
+	color:white;
+	font-weight: bold;
+	font-size: 15px;
+    font-family: verdana;
+
+}
+}
+}
